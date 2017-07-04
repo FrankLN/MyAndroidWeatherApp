@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="Location">Location</string>
+    <string name="Temp">Tempature</string>
+</resources>
